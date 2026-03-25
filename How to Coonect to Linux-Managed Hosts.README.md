@@ -122,7 +122,5 @@ This will:
 - Fix permissions  
 - Make the environment consistent across all hosts  
 
-Exactly the kind of reproducible workflow you prefer.
-
 ---
 
